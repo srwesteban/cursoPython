@@ -8,4 +8,3 @@ while i<=cantidad:
 
 print("numero mayor: ", max(lista))    
 
-
